@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/letian/test/devel -DCMAKE_INSTALL_PREFIX=/home/letian/test/install -G Unix Makefiles

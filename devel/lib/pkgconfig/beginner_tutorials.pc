@@ -1,0 +1,8 @@
+prefix=/home/letian/test/devel
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/letian/test/devel/lib 
+Requires: 
