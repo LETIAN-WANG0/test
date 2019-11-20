@@ -270,7 +270,11 @@ if __name__ == '__main__':
 
         if not args.local:
             # environment at generation time
+<<<<<<< HEAD
             CMAKE_PREFIX_PATH = '/home/letian/catkin_ws/devel;/home/letian/decision-planning_ncds-sample/devel;/opt/ros/kinetic'.split(';')
+=======
+            CMAKE_PREFIX_PATH = '/home/letian/test/devel;/opt/ros/kinetic'.split(';')
+>>>>>>> 798d5e7063431ffdf3a6f3540d43fd5bf6dd807b
         else:
             # don't consider any other prefix path than this one
             CMAKE_PREFIX_PATH = []

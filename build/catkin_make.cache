@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 -DCATKIN_DEVEL_PREFIX=/home/letian/test/devel -DCMAKE_INSTALL_PREFIX=/home/letian/test/install -G Unix Makefiles
+=======
+beginner_tutorials
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/letian/test/devel -DCMAKE_INSTALL_PREFIX=/home/letian/test/install -G Unix Makefiles
+>>>>>>> 798d5e7063431ffdf3a6f3540d43fd5bf6dd807b

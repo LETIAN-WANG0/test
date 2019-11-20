@@ -28,3 +28,28 @@
 /home/letian/test/build/gtest/gtest/CMakeFiles/gtest_main.dir
 /home/letian/test/build/gtest/gtest/CMakeFiles/edit_cache.dir
 /home/letian/test/build/gtest/gtest/CMakeFiles/test.dir
+<<<<<<< HEAD
+=======
+/home/letian/test/build/beginner_tutorials/CMakeFiles/install/local.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/install.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/install/strip.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/list_install_components.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_lisp.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_eus.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_nodejs.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_lisp.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/test.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_nodejs.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_eus.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_cpp.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_cpp.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/rebuild_cache.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/edit_cache.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_py.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir
+/home/letian/test/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_py.dir
+>>>>>>> 798d5e7063431ffdf3a6f3540d43fd5bf6dd807b
